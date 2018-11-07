@@ -4,7 +4,7 @@
 
 int main (int arg, char *argv[])
 {
-	printf( "\nHello World Oktay!\n" );
+	printf( "\nHello World Oktay 2!\n" );
 
 	return 0;
 }
