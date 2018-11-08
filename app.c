@@ -18,6 +18,7 @@ int divide(int x, int y)
 int main (int arg, char *argv[])
 {
 	printf( "\nHello World Testbranch1 3!\n" );
+	//Master dala eklendi 1
 
 	return 0;
 }
