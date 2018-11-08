@@ -19,6 +19,7 @@ int main (int arg, char *argv[])
 {
 	printf( "\nHello World Testbranch1 3!\n" );
 	//Master dala eklendi 1
+	//Master dala eklendi 2
 
 	return 0;
 }
