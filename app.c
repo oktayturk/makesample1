@@ -21,6 +21,7 @@ int main (int arg, char *argv[])
 	//Sum dalına eklendi 1
 	//Sum dalına eklendi 2
 	//Sum dalına eklendi 3
+	//Sum dalına eklendi 4
 
 	return 0;
 }
