@@ -24,5 +24,13 @@ int main (int arg, char *argv[])
 	//Master dala eklendi 4
 	//Master dala eklendi 5
 
+	//Sum dalına eklendi 1
+	//Sum dalına eklendi 2
+	//Sum dalına eklendi 3
+	//Sum dalına eklendi 4
+	//Sum dalına eklendi 5
+	//Sum dalına eklendi 6
+	//Sum dalına eklendi 7
+
 	return 0;
 }
