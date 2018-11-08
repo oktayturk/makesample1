@@ -21,6 +21,7 @@ int main (int arg, char *argv[])
 	//Master dala eklendi 1
 	//Master dala eklendi 2
 	//Master dala eklendi 3
+	//Master dala eklendi 4
 
 	return 0;
 }
