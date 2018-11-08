@@ -23,6 +23,7 @@ int main (int arg, char *argv[])
 	//Master dala eklendi 3
 	//Master dala eklendi 4
 	//Master dala eklendi 5
+	//Master dala eklendi 6
 
 	//Sum dalına eklendi 1
 	//Sum dalına eklendi 2
