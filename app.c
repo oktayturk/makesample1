@@ -19,6 +19,7 @@ int main (int arg, char *argv[])
 {
 	printf( "\nHello World Testbranch1 3!\n" );
 	//Sum dalına eklendi 1
+	//Sum dalına eklendi 2
 
 	return 0;
 }
