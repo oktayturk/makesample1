@@ -4,7 +4,7 @@
 
 int sum(int x, int y)
 {
-	return x+y;
+	return x+y;//Comments
 }
 
 int divide(int x, int y)
