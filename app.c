@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include "inc_a.h"
 
+int sum(int x, int y)
+{
+	return x+y;
+}
 
 int divide(int x, int y)
 {
